@@ -1,0 +1,15 @@
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\bin\Debug\net6.0\SankeLadderGame.exe
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\bin\Debug\net6.0\SankeLadderGame.deps.json
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\bin\Debug\net6.0\SankeLadderGame.runtimeconfig.json
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\bin\Debug\net6.0\SankeLadderGame.dll
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\bin\Debug\net6.0\SankeLadderGame.pdb
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.csproj.AssemblyReference.cache
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.AssemblyInfoInputs.cache
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.AssemblyInfo.cs
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.csproj.CoreCompileInputs.cache
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.dll
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\refint\SankeLadderGame.dll
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.pdb
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\SankeLadderGame.genruntimeconfig.cache
+D:\RFP\PP\SnakeAndLadder\SankeLadderGame\obj\Debug\net6.0\ref\SankeLadderGame.dll

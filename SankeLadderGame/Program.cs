@@ -1,4 +1,5 @@
 ﻿using SankeLadderGame;
 
 Game game = new Game();
-Console.WriteLine(game.playerPosition);
+game.DiceRoll();
+Console.WriteLine(game.DiceRoll());
