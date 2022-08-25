@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SankeLadderGame;
+
+Game game = new Game();
+Console.WriteLine(game.playerPosition);
