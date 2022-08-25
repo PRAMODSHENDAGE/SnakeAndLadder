@@ -18,18 +18,25 @@ namespace SankeLadderGame
         }
         public void Play()
         {
-            int option = random.Next(0, 3);
-            switch (option)
+            while (playerPosition < 100)
             {
-                case NO_PLAY:
-                    playerPosition += 0;
-                    break;
-                case LADDER:
-                    playerPosition += DiceRoll();
-                    break;
-                case SNAKE:
-                    playerPosition -= DiceRoll();
-                    break;
+                int option = random.Next(0, 3);
+                switch (option)
+                {
+                    case NO_PLAY:
+                        playerPosition += 0;
+                        break;
+                    case LADDER:
+                        playerPosition += DiceRoll();
+                        break;
+                    case SNAKE:
+                        playerPosition -= DiceRoll();
+                        if (playerPosition < 0)
+                        {
+                            playerPosition = 0;
+                        }
+                        break;
+                }
             }
             Console.WriteLine(playerPosition);
         }
